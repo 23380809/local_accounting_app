@@ -1,0 +1,17 @@
+.rdg-cell {
+  outline: black solid 1px;
+  background-color: white;
+  color:black;
+}
+
+@media (prefers-color-scheme: light){
+  .rdg-cell {
+    outline: black solid 1px;
+  }
+}
+
+[role="grid"] {
+  background-color: white;
+  outline: black solid 1px;
+  scrollbar-color: black yellow;
+}

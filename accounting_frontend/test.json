@@ -1,0 +1,143 @@
+[
+    [{
+        "orders": [
+            {
+                "payment_amount": "2000",
+                "order_date": "2022-01-19"
+            }
+        ],
+        "payment_amount": 2000,
+        "order_date": "2022",
+        "type": "year"
+    },
+    {
+        "orders": [
+            {
+                "payment_amount": "3000",
+                "order_date": "2023-03-24"
+            },
+            {
+                "payment_amount": "7000",
+                "order_date": "2023-03-27"
+            },
+            {
+                "payment_amount": "3500",
+                "order_date": "2023-03-09"
+            },
+            {
+                "payment_amount": "123",
+                "order_date": "2023-03-17"
+            },
+            {
+                "payment_amount": "0",
+                "order_date": "2023-03-17"
+            },
+            {
+                "payment_amount": "12345",
+                "order_date": "2023-06-09"
+            }
+        ],
+        "payment_amount": 25968,
+        "order_date": "2023",
+        "type": "year"
+    }],
+    
+    [{
+        "orders": [],
+        "payment_amount": 0,
+        "order_date": "01",
+        "type": "month"
+    },
+    {
+        "orders": [],
+        "payment_amount": 0,
+        "order_date": "02",
+        "type": "month"
+    },
+    {
+        "orders": [
+            {
+                "payment_amount": "3000",
+                "order_date": "2023-03-24"
+            },
+            {
+                "payment_amount": "7000",
+                "order_date": "2023-03-27"
+            },
+            {
+                "payment_amount": "3500",
+                "order_date": "2023-03-09"
+            },
+            {
+                "payment_amount": "123",
+                "order_date": "2023-03-17"
+            },
+            {
+                "payment_amount": "0",
+                "order_date": "2023-03-17"
+            }
+        ],
+        "payment_amount": 13623,
+        "order_date": "03",
+        "type": "month"
+    },
+    {
+        "orders": [],
+        "payment_amount": 0,
+        "order_date": "04",
+        "type": "month"
+    },
+    {
+        "orders": [],
+        "payment_amount": 0,
+        "order_date": "05",
+        "type": "month"
+    },
+    {
+        "orders": [
+            {
+                "payment_amount": "12345",
+                "order_date": "2023-06-09"
+            }
+        ],
+        "payment_amount": 12345,
+        "order_date": "06",
+        "type": "month"
+    },
+    {
+        "orders": [],
+        "payment_amount": 0,
+        "order_date": "07",
+        "type": "month"
+    },
+    {
+        "orders": [],
+        "payment_amount": 0,
+        "order_date": "08",
+        "type": "month"
+    },
+    {
+        "orders": [],
+        "payment_amount": 0,
+        "order_date": "09",
+        "type": "month"
+    },
+    {
+        "orders": [],
+        "payment_amount": 0,
+        "order_date": "10",
+        "type": "month"
+    },
+    {
+        "orders": [],
+        "payment_amount": 0,
+        "order_date": "11",
+        "type": "month"
+    },
+    {
+        "orders": [],
+        "payment_amount": 0,
+        "order_date": "12",
+        "type": "month"
+    }]
+]
