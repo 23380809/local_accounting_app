@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-ux4ng=3%$l((uw+_=5sr4_%8k3(7rjon%04s@7qvf5@hk!knd=
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '0.0.0.0', 'api']
+ALLOWED_HOSTS = ['127.0.0.1', '0.0.0.0', 'api', 'accounting-ts-react-django.herokuapp.com']
 # Application definition
 
 INSTALLED_APPS = [
