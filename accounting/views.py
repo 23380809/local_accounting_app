@@ -5,4 +5,4 @@ from datetime import datetime
 import os
 
 def index(request, *args, **kwargs):
-    return render(request, os.path.join(BASE_DIR, 'accounting_frontend/build/index.html'))
+    return render(request, os.path.join(BASE_DIR, 'build/index.html'))
